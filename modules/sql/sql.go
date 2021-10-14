@@ -4,7 +4,7 @@ import (
   "database/sql"
   "github.com/PaulSonOfLars/gotgbot/ext"
   "github.com/MahdiDjango/GopherGroupBot/modules/errors"
-  "github.com/Roker2/MahdiDjango/GopherGroupBot/texts"
+  "github.com/MahdiDjango/GopherGroupBot/texts"
   _ "github.com/lib/pq"
   "os"
   "strings"

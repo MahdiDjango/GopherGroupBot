@@ -1,7 +1,7 @@
 github.com/PaulSonOfLars/gotgbot v1.0.0-beta1 h1:J7kF+/1U+BFzyRiWsBnN/arjUC0dNRL8yLWxTe/2SuY=
 github.com/PaulSonOfLars/gotgbot v1.0.0-beta1/go.mod h1:MEPPNkHZkNgevbRyW5py9Bt3BZf6HTKqbXbsfxuyDQ0=
-github.com/Roker2/RockBot v0.0.0-20201230125438-2596b63ac2fc h1:426Kn909YqKJJT2RtrF2+/9AQNVaIdHegiyi80KVTLg=
-github.com/Roker2/RockBot v0.0.0-20201230125438-2596b63ac2fc/go.mod h1:7netNVltecC6ze0RBWixqDfONCqk6UjV8vvoVurqcPM=
+github.com/MahdiDjango/GopherGroupBot v0.0.0-20201230125438-2596b63ac2fc h1:426Kn909YqKJJT2RtrF2+/9AQNVaIdHegiyi80KVTLg=
+github.com/MahdiDjango/GopherGroupBot v0.0.0-20201230125438-2596b63ac2fc/go.mod h1:7netNVltecC6ze0RBWixqDfONCqk6UjV8vvoVurqcPM=
 github.com/glinton/ping v0.1.4-0.20200311211934-5ac87da8cd96 h1:YpooqMW354GG47PXNBiaCv6yCQizyP3MXD9NUPrCEQ8=
 github.com/glinton/ping v0.1.4-0.20200311211934-5ac87da8cd96/go.mod h1:uY+1eqFUyotrQxF1wYFNtMeHp/swbYRsoGzfcPZ8x3o=
 github.com/lib/pq v1.8.1-0.20200908161135-083382b7e6fc h1:ERSU1OvZ6MdWhHieo2oT7xwR/HCksqKdgK6iYPU5pHI=

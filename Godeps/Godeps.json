@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/Roker2/RockBot",
+	"ImportPath": "github.com/MahdiDjango/GopherGroupBot",
 	"GoVersion": "go1.13",
 	"GodepVersion": "v80",
 	"Deps": [
