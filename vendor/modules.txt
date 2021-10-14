@@ -1,0 +1,65 @@
+# github.com/PaulSonOfLars/gotgbot v1.0.0-beta1
+## explicit; go 1.13
+github.com/PaulSonOfLars/gotgbot
+github.com/PaulSonOfLars/gotgbot/dice
+github.com/PaulSonOfLars/gotgbot/ext
+github.com/PaulSonOfLars/gotgbot/handlers
+github.com/PaulSonOfLars/gotgbot/handlers/Filters
+github.com/PaulSonOfLars/gotgbot/parsemode
+# github.com/Roker2/RockBot v0.0.0-20201230125438-2596b63ac2fc
+## explicit
+github.com/Roker2/RockBot/modules/admin
+github.com/Roker2/RockBot/modules/bans
+github.com/Roker2/RockBot/modules/errors
+github.com/Roker2/RockBot/modules/info
+github.com/Roker2/RockBot/modules/media/Anilibria
+github.com/Roker2/RockBot/modules/media/SunMyungMoon
+github.com/Roker2/RockBot/modules/mute
+github.com/Roker2/RockBot/modules/ping
+github.com/Roker2/RockBot/modules/rules
+github.com/Roker2/RockBot/modules/sql
+github.com/Roker2/RockBot/modules/texts
+github.com/Roker2/RockBot/modules/utils
+github.com/Roker2/RockBot/modules/warns
+github.com/Roker2/RockBot/modules/welcome
+# github.com/glinton/ping v0.1.4-0.20200311211934-5ac87da8cd96
+## explicit; go 1.12
+github.com/glinton/ping
+# github.com/lib/pq v1.8.1-0.20200908161135-083382b7e6fc
+## explicit; go 1.13
+github.com/lib/pq
+github.com/lib/pq/oid
+github.com/lib/pq/scram
+# github.com/pkg/errors v0.9.1
+## explicit
+github.com/pkg/errors
+# github.com/sirupsen/logrus v1.7.1-0.20201121183040-a752a62f5ec3
+## explicit; go 1.13
+github.com/sirupsen/logrus
+# go.uber.org/atomic v1.7.0
+## explicit; go 1.13
+go.uber.org/atomic
+# go.uber.org/multierr v1.6.1-0.20201027220001-0eb6eb5383b9
+## explicit; go 1.14
+go.uber.org/multierr
+# go.uber.org/zap v1.16.1-0.20201112215912-9d2e5dea6deb
+## explicit; go 1.13
+go.uber.org/zap
+go.uber.org/zap/buffer
+go.uber.org/zap/internal/bufferpool
+go.uber.org/zap/internal/color
+go.uber.org/zap/internal/exit
+go.uber.org/zap/zapcore
+# golang.org/x/net v0.0.0-20201110031124-69a78807bb2b
+## explicit; go 1.11
+golang.org/x/net/bpf
+golang.org/x/net/icmp
+golang.org/x/net/internal/iana
+golang.org/x/net/internal/socket
+golang.org/x/net/ipv4
+golang.org/x/net/ipv6
+# golang.org/x/sys v0.0.0-20201119102817-f84b799fce68
+## explicit; go 1.12
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/unix
+golang.org/x/sys/windows
